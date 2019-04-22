@@ -1,4 +1,22 @@
-﻿*** Copyright by Hugo Fief ***
+﻿# TOUT PREMIER PROJET DE CODE
+
+## ***Developed by Hugo Fief***
+
+
+```
+Arborescence du Projet :
+├───autres : fichiers cibles
+├───css : style
+├───espaceMembre : partie espace membre
+│   ├───membres
+│   │   └───avatar : avatar de l'utilisateur
+│   └───php : pages php annexes
+├───images : images
+└───php : pages php annexes
+```
+---
+
+
 - Pour comencer créer la base de données primfx
 - Ensuite il vous faudra créer plusieurs tables : 
 	* la table chat {id[int,auto_increment],pseudo[varchar],message[text]}
