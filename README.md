@@ -2,7 +2,6 @@
 
 ## ***Developed by Hugo Fief***
 
-
 ```
 Arborescence du Projet :
 ├───autres : fichiers cibles
@@ -15,7 +14,6 @@ Arborescence du Projet :
 └───php : pages php annexes
 ```
 ---
-
 
 - Pour comencer créer la base de données primfx
 - Ensuite il vous faudra créer plusieurs tables : 
